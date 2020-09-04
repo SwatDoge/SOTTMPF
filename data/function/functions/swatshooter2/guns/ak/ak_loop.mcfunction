@@ -1,0 +1,1 @@
+function function:swatshooter2/guns/ak/ak_bullet

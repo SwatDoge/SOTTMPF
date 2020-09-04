@@ -1,0 +1,1 @@
+function function:swatshooter2/guns/rpg/rpg_bullet

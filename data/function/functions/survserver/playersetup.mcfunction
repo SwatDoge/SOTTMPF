@@ -1,0 +1,21 @@
+scoreboard players add @s surv_minetimer
+scoreboard players add @s surv_minereg
+scoreboard players add @s surv_minelocal
+scoreboard players add @s surv_placelocal
+scoreboard players add @s stats_walk_m
+scoreboard players add @s stats_swim_m
+scoreboard players add @s stats_vehicle_m
+scoreboard players add @s stats_elytra_m
+scoreboard players add @s stats_maxheight
+scoreboard players add @s time_ticks
+scoreboard players add @s session_time
+scoreboard players add @s surv_leave
+scoreboard players add @s time_afk
+scoreboard players add @s surv_afk
+scoreboard players add @s surv_kill_m
+scoreboard players add @s surv_kill
+scoreboard players add @s surv_death_m
+scoreboard players add @s surv_death
+scoreboard players add @s surv_join_m
+scoreboard players add @s surv_join
+tellraw @s {"text":"Statistics succesfully set up, have fun on the server!","color":"yellow"}

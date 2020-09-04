@@ -1,0 +1,43 @@
+replaceitem entity @s[scores={cosm_pulsetimer=1..1,cosm_pulsetimer=1..1}] armor.head minecraft:leather_helmet{display:{color:16777215}}
+replaceitem entity @s[scores={cosm_pulsetimer=2..2,cosm_pulsetimer=2..2}] armor.head minecraft:leather_helmet{display:{color:15066597}}
+replaceitem entity @s[scores={cosm_pulsetimer=3..3,cosm_pulsetimer=3..3}] armor.head minecraft:leather_helmet{display:{color:13421772}}
+replaceitem entity @s[scores={cosm_pulsetimer=4..4,cosm_pulsetimer=4..4}] armor.head minecraft:leather_helmet{display:{color:11711154}}
+replaceitem entity @s[scores={cosm_pulsetimer=5..5,cosm_pulsetimer=5..5}] armor.head minecraft:leather_helmet{display:{color:10066329}}
+replaceitem entity @s[scores={cosm_pulsetimer=6..6,cosm_pulsetimer=6..6}] armor.head minecraft:leather_helmet{display:{color:8355711}}
+replaceitem entity @s[scores={cosm_pulsetimer=7..7,cosm_pulsetimer=7..7}] armor.head minecraft:leather_helmet{display:{color:6710886}}
+replaceitem entity @s[scores={cosm_pulsetimer=8..8,cosm_pulsetimer=8..8}] armor.head minecraft:leather_helmet{display:{color:5000268}}
+replaceitem entity @s[scores={cosm_pulsetimer=9..9,cosm_pulsetimer=9..9}] armor.head minecraft:leather_helmet{display:{color:3355443}}
+replaceitem entity @s[scores={cosm_pulsetimer=10..10,cosm_pulsetimer=10..10}] armor.head minecraft:leather_helmet{display:{color:1644825}}
+
+replaceitem entity @s[scores={cosm_pulsetimer=1..1,cosm_pulsetimer=1..1}] armor.chest minecraft:leather_chestplate{display:{color:16777215}}
+replaceitem entity @s[scores={cosm_pulsetimer=2..2,cosm_pulsetimer=2..2}] armor.chest minecraft:leather_chestplate{display:{color:15066597}}
+replaceitem entity @s[scores={cosm_pulsetimer=3..3,cosm_pulsetimer=3..3}] armor.chest minecraft:leather_chestplate{display:{color:13421772}}
+replaceitem entity @s[scores={cosm_pulsetimer=4..4,cosm_pulsetimer=4..4}] armor.chest minecraft:leather_chestplate{display:{color:11711154}}
+replaceitem entity @s[scores={cosm_pulsetimer=5..5,cosm_pulsetimer=5..5}] armor.chest minecraft:leather_chestplate{display:{color:10066329}}
+replaceitem entity @s[scores={cosm_pulsetimer=6..6,cosm_pulsetimer=6..6}] armor.chest minecraft:leather_chestplate{display:{color:8355711}}
+replaceitem entity @s[scores={cosm_pulsetimer=7..7,cosm_pulsetimer=7..7}] armor.chest minecraft:leather_chestplate{display:{color:6710886}}
+replaceitem entity @s[scores={cosm_pulsetimer=8..8,cosm_pulsetimer=8..8}] armor.chest minecraft:leather_chestplate{display:{color:5000268}}
+replaceitem entity @s[scores={cosm_pulsetimer=9..9,cosm_pulsetimer=9..9}] armor.chest minecraft:leather_chestplate{display:{color:3355443}}
+replaceitem entity @s[scores={cosm_pulsetimer=10..10,cosm_pulsetimer=10..10}] armor.chest minecraft:leather_chestplate{display:{color:1644825}}
+
+replaceitem entity @s[scores={cosm_pulsetimer=1..1,cosm_pulsetimer=1..1}] armor.legs minecraft:leather_leggings{display:{color:16777215}}
+replaceitem entity @s[scores={cosm_pulsetimer=2..2,cosm_pulsetimer=2..2}] armor.legs minecraft:leather_leggings{display:{color:15066597}}
+replaceitem entity @s[scores={cosm_pulsetimer=3..3,cosm_pulsetimer=3..3}] armor.legs minecraft:leather_leggings{display:{color:13421772}}
+replaceitem entity @s[scores={cosm_pulsetimer=4..4,cosm_pulsetimer=4..4}] armor.legs minecraft:leather_leggings{display:{color:11711154}}
+replaceitem entity @s[scores={cosm_pulsetimer=5..5,cosm_pulsetimer=5..5}] armor.legs minecraft:leather_leggings{display:{color:10066329}}
+replaceitem entity @s[scores={cosm_pulsetimer=6..6,cosm_pulsetimer=6..6}] armor.legs minecraft:leather_leggings{display:{color:8355711}}
+replaceitem entity @s[scores={cosm_pulsetimer=7..7,cosm_pulsetimer=7..7}] armor.legs minecraft:leather_leggings{display:{color:6710886}}
+replaceitem entity @s[scores={cosm_pulsetimer=8..8,cosm_pulsetimer=8..8}] armor.legs minecraft:leather_leggings{display:{color:5000268}}
+replaceitem entity @s[scores={cosm_pulsetimer=9..9,cosm_pulsetimer=9..9}] armor.legs minecraft:leather_leggings{display:{color:3355443}}
+replaceitem entity @s[scores={cosm_pulsetimer=10..10,cosm_pulsetimer=10..10}] armor.legs minecraft:leather_leggings{display:{color:1644825}}
+
+replaceitem entity @s[scores={cosm_pulsetimer=1..1,cosm_pulsetimer=1..1}] armor.feet minecraft:leather_boots{display:{color:16777215}}
+replaceitem entity @s[scores={cosm_pulsetimer=2..2,cosm_pulsetimer=2..2}] armor.feet minecraft:leather_boots{display:{color:15066597}}
+replaceitem entity @s[scores={cosm_pulsetimer=3..3,cosm_pulsetimer=3..3}] armor.feet minecraft:leather_boots{display:{color:13421772}}
+replaceitem entity @s[scores={cosm_pulsetimer=4..4,cosm_pulsetimer=4..4}] armor.feet minecraft:leather_boots{display:{color:11711154}}
+replaceitem entity @s[scores={cosm_pulsetimer=5..5,cosm_pulsetimer=5..5}] armor.feet minecraft:leather_boots{display:{color:10066329}}
+replaceitem entity @s[scores={cosm_pulsetimer=6..6,cosm_pulsetimer=6..6}] armor.feet minecraft:leather_boots{display:{color:8355711}}
+replaceitem entity @s[scores={cosm_pulsetimer=7..7,cosm_pulsetimer=7..7}] armor.feet minecraft:leather_boots{display:{color:6710886}}
+replaceitem entity @s[scores={cosm_pulsetimer=8..8,cosm_pulsetimer=8..8}] armor.feet minecraft:leather_boots{display:{color:5000268}}
+replaceitem entity @s[scores={cosm_pulsetimer=9..9,cosm_pulsetimer=9..9}] armor.feet minecraft:leather_boots{display:{color:3355443}}
+replaceitem entity @s[scores={cosm_pulsetimer=10..10,cosm_pulsetimer=10..10}] armor.feet minecraft:leather_boots{display:{color:1644825}}

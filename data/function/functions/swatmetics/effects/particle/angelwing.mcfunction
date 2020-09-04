@@ -1,0 +1,2 @@
+execute at @s[scores={cosm_prtcl_angle=1..1},nbt={abilities:{flying:0b}}] run function function:swatmetics/effects/particle/angelwing/angelwing_static
+execute at @s[scores={cosm_prtcl_angle=1..1},nbt={abilities:{flying:1b}}] run function function:swatmetics/effects/particle/angelwing/angelwing_animated

@@ -1,0 +1,6 @@
+execute as @e[type=player,nbt=!{SelectedItem:{id:"minecraft:shears",Count:1b,tag:{Damage:1}}},scores={amw_reload=1..}] run function function:swatshooter2/guns/amw/amw_reload
+execute as @e[type=player,nbt={SelectedItem:{id:"minecraft:shears",Count:1b,tag:{Damage:1}}}] run function function:swatshooter2/guns/amw/amw_reload
+execute as @e[type=player,nbt=!{SelectedItem:{id:"minecraft:shears",Count:1b,tag:{Damage:36}}},scores={amw_reload=1..}] run function function:swatshooter2/guns/amw/amw_reload
+execute as @e[type=player,nbt={SelectedItem:{id:"minecraft:shears",Count:1b,tag:{Damage:36}}}] run function function:swatshooter2/guns/amw/amw_reload
+execute as @e[type=player,scores={clickdetect=1..,amw_reload=0..0},nbt={SelectedItem:{id:"minecraft:shears",Count:1b,tag:{Damage:1}}}] run function function:swatshooter2/guns/amw/amw_trigger
+execute as @e[type=player,scores={clickdetect=1..,amw_reload=0..0},nbt={SelectedItem:{id:"minecraft:shears",Count:1b,tag:{Damage:36}}}] run function function:swatshooter2/guns/amw/amw_trigger

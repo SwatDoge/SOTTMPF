@@ -1,0 +1,1 @@
+execute as @e[tag=head] at @s run tp @s ~ ~ ~ facing entity @p[distance=..7] feet
